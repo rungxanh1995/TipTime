@@ -3,6 +3,9 @@
 *.ap_
 *.aab
 
+# macOS garbage
+*.DS_Store
+
 # Files for the ART/Dalvik VM
 *.dex
 
